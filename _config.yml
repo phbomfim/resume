@@ -48,10 +48,10 @@ resume_social_links:
   resume_github_url:            "https://github.com/phbomfim/"
   resume_twitter_url:           "http://twitter.com/phbomfimdev"
   #resume_dribbble_url:          ""
-  resume_facebook_url:          "https://www.facebook.com/PauloBonfa/"
+  #resume_facebook_url:          "https://www.facebook.com/PauloBonfa/"
   resume_linkedin_url:          "https://www.linkedin.com/in/phbomfim/"
   resume_instagram_url:         "https://www.instagram.com/phbomfimm/"
-  resume_website_url:           "http://phbomfim.netlify.com"
+  resume_website_url:           "http://phbomfim.dev"
   #resume_medium_url:            ""
 resume_print_social_links:      true
 
