@@ -3,12 +3,27 @@
 
 - organization: Rails Girls Salvador
   role: Mentor
-  year: 2019
+  year: 2019 &mdash; Present
   url: http://railsgirls.com/salvador.html
-  summary: ---
-
+  summary: Since 2019 I participate in the event Rails Girls in Salvador.
+           The purpose of Rails Girls is to give tools and build a community for womem to understand technology and to build their ideas.
+           We do this by providing a great experience on building things and by making technology more approachable.
+           Learn sketching, prototyping, basic programming and get introduced to the world of technology.
+           Rails Girls was born in Finland, but is nowadays a global, non-profit volunteer community.
+           
 - organization: Onda Digital
   role: Instructor
   year: 2019 &mdash; Present
   url: http://ime.ufba.br/index.php/onda-digital/
-  summary: ---
+  summary: Since 2019, with the support of Onda Digital, I have organized CIPROG level 2 (Computer programming initiation course).
+           The objective of the course is to improve knowledge in programming with a focus on development of computational reasoning.
+           In this course we solve problems of logic and mathematics using computational reasoning.
+
+- organization: InfoJr UFBA
+  role: Trainee
+  year: 2016.2
+  url: http://infojr.com.br/
+  summary: In the semester 2016.2 I was selected for the InfoJr's (Junior Computer Company at UFBA) trainee program.
+           During the period what I was in the company, I carried out activies related to team programming.
+           It was at this company that I had my first contact with software development technologies, such as databases (MySQL),
+           HTML and CSS, Git and Github, and the programming languages like PHP and JavaScript.

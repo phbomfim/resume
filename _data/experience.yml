@@ -2,9 +2,61 @@
 - company: OmniCode Solutions
   position: Intern
   duration:   Aug, 2019  &mdash; Oct, 2019
-  summary: ---
+  summary: I started as a freelancer in a personal project of the company and soon after I was hired for a period of 3 months as an intern.
+           I carried out projects in pair programming and developed technologies for the management of medium-sized companies, personal projects and studies related to projects of a social technological nature.
+           For 1 month I was in contact with foreign customers to develop products aimed at the foreign market.
+           Among the various technologies developed and studied in this work, there are <br>
+
+           <ul class="resume-item-list">
+           <li> Git </li>
+           <li> GitFlow </li>
+           <li> GitHub / GitHub Pages </li>
+           <li> GitLab / GitLab Pages </li>
+           <li> PHP </li>
+           <li> HTML </li>
+           <li> CSS </li>
+           <li> JavaScript </li>
+           <ul>
+            <li> ReactJS </li>
+            <li> NodeJS </li>
+           </ul>
+           <li> Gatsby </li>
+           <li> GraphQL </li>
+           <li> Netlify </li>
+           <li> Ruby </li>
+           <ul>
+            <li> Rails </li>
+            <ul>
+              <li> Webpacker </li>
+              <li> Rubocop </li>
+              <li> Administrate </li>
+            </ul>
+            <li> Rspec </li>
+           </ul>
+           <li> BootStrap </li>
+           <li> Postgresql </li>
+           <li> Heroku </li>
+           <li> Travis CI </li>
+           <li> Docker </li>
+           <li> MAMP </li>
+           <li> Mac OS </li>
+           <br>
   
 - company: Casseb & Saúde Casseb 
   position: Intern
   duration:   Jul, 2018  &mdash; Jul, 2019
-  summary: ---
+  summary: During the period that I was at this company, I perfomed differents activies focused on user support and maintenance of hardware and software.           
+           In addition to all technical learniing, the company works with approximately 150 employees in the most diverse sectors, wich allowed me to learn more about teamwork and coexistence in society.
+           Among the main technologies developed and studied at work, there are <br>
+
+           <ul class="resume-item-list">
+           <li> PHP </li>
+           <li> HTML </li>
+           <li> CSS </li>
+           <li> JavaScript </li>
+           <li> Banco de Dados Oracle </li>
+           <li> MySQL </li>
+           <li> WAMP Server </li>
+           <li> TomCat </li>
+           <li> Windows Shell </li>
+           <li> Windows Server </li>
