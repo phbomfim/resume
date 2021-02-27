@@ -1,4 +1,29 @@
 # Communications Coordinator
+- company: BRASERV Petróleo Ltda.
+  position: Part time
+  duration:   Jan, 2021  &mdash; Present
+  summary: Developing a variety of data management solutions. 
+           Some of the technologies used in this work are <br>
+
+           <ul class="resume-item-list">
+            <li> PHP & MySQL </li>
+            <li> Google Cloud & SDK Drive API </li>
+            <li> Java </li>
+            <li> Shell Script </li>
+            <li> Heroku </li>
+            <li> Git & GitHub </li>
+            <li> CSS + Bootstrap </li>
+          </ul>
+
+- company: phbomfim.dev
+  position: Freelancer
+  duration:   Dez, 2019  &mdash; Present
+  summary: Since my formal departure from OmniCode Solutions, I have been performing the most diverse services as a freelancer in my brand.
+           Among the main activities are bug fixes, consulting and application development.
+           I work with several technologies that I master, mainly in GatsbyJS, Ruby in Rails, PHP and WordPress.
+           I am constantly making the most diverse solutions for small and large companies.
+
+
 - company: OmniCode Solutions
   position: Intern
   duration:   Aug, 2019  &mdash; Oct, 2019
