@@ -2,6 +2,28 @@
 # uncomment the urls if you wish to display them, and add your own URL
 
 # Personal Page
+
+- project: Portfolio Template
+  role: Full Stack Engineer
+  duration: 2020
+  url: https://phbomfim.dev/
+  description: Aiming share knowledge and cooperate with programers I created a portfolio with the main focus on making the template available to GatsbyJS developers.
+               This framework has a showcase that helps several developers around the world.<br></br>
+               In this project I used the technologies <br>
+
+               <ul class="resume-item-list">
+               <li> Gatsby JS </li>
+               <li> React JS </li>
+               <li> GraphQL </li>
+               <li> CSS </li>
+                <ul>
+                <li> CSS Grid </li>
+                <li> Tailwind CSS </li>
+                </ul>
+                <li> Netlify </li>
+               <br>
+
+
 - project: Developer Blog
   role: Full Stack Engineer
   duration: 2020
