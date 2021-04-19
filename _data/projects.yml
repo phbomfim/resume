@@ -3,6 +3,21 @@
 
 # Personal Page
 
+- project: Daily Learnings
+  role: Full Stack Engineer
+  duration: 2021
+  url: https://phbomfim-learnings.herokuapp.com/
+  description: Aiming share knowledge and cooperate with programers I created a diary template.<br>
+               This is a simple site with administrate dashboard where you can write down several daily learnings.<br></br>
+               In this project I used the technologies <br>
+
+               <ul class="resume-item-list">
+               <li> Ruby On Rails</li>
+               <li> BootStrap </li>
+               <li> RESTful </li>
+               <li> Heroku </li>
+              <br>
+
 - project: Portfolio Template
   role: Full Stack Engineer
   duration: 2020
@@ -27,7 +42,7 @@
 - project: Developer Blog
   role: Full Stack Engineer
   duration: 2020
-  url: https://phbomfim.dev
+  url: https://blog.phbomfim.dev
   description: Aiming at sharing of knowledge and exposing my work I created my website.
                On this page I share some tutorials about my studies and work developing the most diverse technologies.
                And on my blog I share some links about interesting content. <br><br>
@@ -35,20 +50,14 @@
                Technologies used
 
                <ul class="resume-item-list">
-               <li> React </li>
-               <li> Git </li>
                <li> JavaScript </li>
-               <li> Ruby </li>
-               <li> PHP </li>
-               <li> HTML </li>
-               <li> Rails </li>
-               <li> Linux/Windows </li>
-               <li> Travis CI </li>
-               <li> GitLab Pages & GitHub </li>
-               <li> Gatsby </li>
+               <ul>
+                <li> GatsbyJS</li>
+                <li> ReactJS</li>
+               </ul>
                <li> GraphQL </li>
-               <li> Heroku </li>
-               <li> WordPress </li>
+               <li> Git </li>
+               <li> Travis CI </li>
                <li> Netlify </li>
                <br>
 
@@ -56,7 +65,7 @@
 - project: Gestalt Therapy Institute of Bahia (IGTBA)
   role: Co-Founder & Developer
   duration: 2019
-  # url: "#"
+  url: https://gestalt.com.br/
   description: From the technology implemented at Casseb/Saúde Casseb I created a system similar to IGTBA.
                In this project the demand was related to the management of students linked to the institute, in addition to the courses/activities.
                The system is exclusive to the company's administrators.<br><br>
@@ -64,28 +73,11 @@
                Technologies used
 
                <ul class="resume-item-list">
+               <li> PHP </li>
+               <li> Google API </li>
+               <li> RESTful </li>
                <li> HTML </li>
                <li> CSS </li>
                <li> JavaScript </li>
-               <li> WAMP Server </li>
-               <li> PHP </li>
-               <li> SQL/MySQL </li>
+               <li> MySQL </li>
                <br>
-               
-# Casseb/Saude Casseb
-- project: Casseb/Saude Casseb - System Organizator
-  role: Full Stack Engineer
-  duration: 2018 
-  # url: "#"
-  description: In order to meet the needs of the company's computer sector, I created a system for data control (for example IPs, passwords, tutorials, emails, phones, machine features and etc).
-               In this project I used the local server machine to set up the database of application.
-               This system is exclusive to the company's computer sector and its administrators. <br><br>
-               Technologies used
-
-               <ul class="resume-item-list">
-               <li> HTML </li>
-               <li> CSS </li>
-               <li> JavaScript </li>
-               <li> WAMP Server </li>
-               <li> PHP </li>
-               <li> SQL/MySQL </li>
