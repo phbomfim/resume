@@ -25,7 +25,7 @@ display_header_contact_info:    "true"
 
 resume_header_intro: "<p>Developing applications since 2017.
                          Heavy experience with desing and architecture, methodologies and open source software.
-                         Skilled in PHP, Ruby, JavaScript, C++ and other languages.
+                         Skilled in Ruby On Rails, PHP, JavaScript and other languages.
                          Currently expanding knowlegdes in Web Development. </p>"
 
 # use "yes" to display the email contact button,
