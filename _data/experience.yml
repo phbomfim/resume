@@ -1,4 +1,21 @@
 # Communications Coordinator
+- company: NaveRS
+  position: Full time
+  duration:   Jun, 2021  &mdash; Present
+  summary: Developing several features using SCRUM methodology and Ruby On Rails as the main technology. 
+           The main area of expertise in this work is focused on bank scenarios using APIs, jobs, tests and so on.
+           The main technologies used here are:<br>
+
+           <ul class="resume-item-list">
+            <li> Ruby On Rails </li>
+            <li> Sidekiq </li>
+            <li> Rspec </li>
+            <li> Slim + Bootstrap </li>
+            <li> MongoDB </li>
+            <li> Apache Kafka </li>
+            <li> Heroku </li>
+          </ul>
+
 - company: BRASERV Petróleo Ltda.
   position: Part time
   duration:   Jan, 2021  &mdash; Apr, 2021
