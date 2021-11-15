@@ -11,9 +11,11 @@
 To test locally, run the following in your terminal:
 
 1. Clone repo locally
-1. `bundle install`
-2. `bundle exec jekyll serve`
-3. Open your browser to `localhost:4000`
+2. `bundle install`
+3. `bundle exec jekyll serve` or `bundle exec jekyll serve --force_polling` (WSL case)
+4. Open your browser to `localhost:4000`
+
+*to run at WSL, use Ruby 2.7.0 version*
 
 ### Customizing
 
