@@ -3,16 +3,17 @@
   position: Full time
   duration:   Jun, 2021  &mdash; Present
   summary: Developing several features using SCRUM methodology and Ruby On Rails as the main technology. 
-           The main area of expertise in this work is focused on bank scenarios using APIs, jobs, tests and so on.
+           The main area of expertise in this work is focused on bank scenarios using APIs, data pipelines, jobs, tests and so on.
+           In addition, I perform work as technical leadership, participate in recruitment and social initiatives.
            The main technologies used here are:<br>
 
            <ul class="resume-item-list">
             <li> Ruby On Rails </li>
+            <li> Apache Kafka </li>
             <li> Sidekiq </li>
             <li> Rspec </li>
-            <li> Slim + Bootstrap </li>
             <li> MongoDB </li>
-            <li> Apache Kafka </li>
+            <li> Slim & Bootstrap </li>
             <li> Heroku </li>
           </ul>
 
