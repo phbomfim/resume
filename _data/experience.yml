@@ -1,6 +1,6 @@
 # Communications Coordinator
 - company: NaveRS
-  position: Full time
+  position: Software Engineer II
   duration:   Jun, 2021  &mdash; Present
   summary: Developing several features using SCRUM methodology and Ruby On Rails as the main technology. 
            The main area of expertise in this work is focused on bank scenarios using APIs, data pipelines, jobs, tests and so on.
@@ -10,15 +10,15 @@
            <ul class="resume-item-list">
             <li> Ruby On Rails </li>
             <li> Apache Kafka </li>
-            <li> Sidekiq </li>
+            <li> Sidekiq and ActiveJobs </li>
             <li> Rspec </li>
             <li> MongoDB </li>
             <li> Slim & Bootstrap </li>
-            <li> Heroku </li>
+            <li> Heroku and CI/CD </li>
           </ul>
 
 - company: BRASERV Petróleo Ltda.
-  position: Part time
+  position: Full Stack Software Engineer
   duration:   Jan, 2021  &mdash; Apr, 2021
   summary: Developed a variety of data management solutions.
            Due to low demand, I left the company.
