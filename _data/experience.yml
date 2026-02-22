@@ -1,106 +1,98 @@
-# Communications Coordinator
+- company: Nubank
+  position: Senior Software Engineer
+  duration:   Aug, 2022  &mdash; Present
+  summary: Working across different global credit card segments, I develop scalable, robust, canonical solutions with a focus on high availability.
+           In this role, I am constantly involved in software architecture discussions, technical decision documentation, stakeholder alignment, and product definitions with people from around the world.<br><br>
+           On a daily basis, I perform mentoring and technical leadership; code quality control and monitoring of different systems; application performance control; participation in software engineer recruitment; participation in technology events and communities; and various other software engineering activities.<br><br>
+           The main technologies I use in this role are:<br>
+
+           <ul class="resume-item-list">
+            <li> Clojure </li>
+            <li> AWS (Cloud Solutions) </li>
+            <li> Kubernetes </li>
+            <li> Datomic &amp; DynamoDB </li>
+            <li> Databricks &amp; ETL </li>
+            <li> Prometheus &amp; Grafana </li>
+          </ul>
+
 - company: NaveRS
-  position: Software Engineer II
-  duration:   Jun, 2021  &mdash; Present
-  summary: Developing several features using SCRUM methodology and Ruby On Rails as the main technology. 
-           The main area of expertise in this work is focused on bank scenarios using APIs, data pipelines, jobs, tests and so on.
-           In addition, I perform work as technical leadership, participate in recruitment and social initiatives.
-           The main technologies used here are:<br>
+  position: Full Stack Developer
+  duration:   Jun, 2021  &mdash; Jul, 2022
+  summary: Developed various solutions using SCRUM methodology with Ruby on Rails as the main technology.
+           The main project was developed for Banks and Financial Institutions, using microservices architecture and APIs.
+           I also performed technical leadership, participated in recruitment, and led initiatives related to racial equality topics.<br><br>
+           The main technologies I used in this role were:<br>
 
            <ul class="resume-item-list">
             <li> Ruby On Rails </li>
             <li> Apache Kafka </li>
-            <li> Sidekiq and ActiveJobs </li>
+            <li> Sidekiq </li>
             <li> Rspec </li>
             <li> MongoDB </li>
-            <li> Slim & Bootstrap </li>
-            <li> Heroku and CI/CD </li>
+            <li> Slim &amp; Bootstrap </li>
+            <li> Heroku </li>
           </ul>
 
 - company: BRASERV Petróleo Ltda.
-  position: Full Stack Software Engineer
+  position: Full Stack Developer
   duration:   Jan, 2021  &mdash; Apr, 2021
-  summary: Developed a variety of data management solutions.
-           Due to low demand, I left the company.
-           Some of the technologies used in this work are <br>
+  summary: Developed solutions (applications and websites) for bid and contract data management.
+           Provided technical support, assisted in data migration, and created new reports.<br><br>
+           The main technologies I used in this role were:<br>
 
            <ul class="resume-item-list">
-            <li> PHP & MySQL </li>
-            <li> Google Cloud & SDK Drive API </li>
+            <li> PHP (using MySQL as database) </li>
+            <li> Google Cloud &amp; SDK Drive API </li>
             <li> Java </li>
-            <li> Shell Script </li>
-            <li> Heroku </li>
-            <li> Git & GitHub </li>
-            <li> CSS + Bootstrap </li>
+            <li> CSS (using Bootstrap) </li>
           </ul>
 
 - company: phbomfim.dev
   position: Freelancer
-  duration:   Dez, 2019  &mdash; Present
-  summary: Since my formal departure from OmniCode Solutions, I have been performing the most diverse services as a freelancer in my brand.
-           Among the main activities are bug fixes, consulting and application development.
-           I work with several technologies that I master, mainly in GatsbyJS, Ruby in Rails, PHP and WordPress.
-           I am constantly making the most diverse solutions for small and large companies.
+  duration:   Dec, 2019  &mdash; Apr, 2021
+  summary: After formally leaving OmniCode Solutions, I provided various services as a freelancer.<br>
+           The main activities included bug fixes, consulting, and web application development.<br><br>
+           Available to work with the main technologies I mastered at the time:<br>
 
+           <ul class="resume-item-list">
+            <li> GatsbyJS </li>
+            <li> Ruby On Rails </li>
+            <li> PHP </li>
+            <li> WordPress </li>
+           </ul>
 
 - company: OmniCode Solutions
   position: Intern
   duration:   Aug, 2019  &mdash; Oct, 2019
-  summary: I started as a freelancer in a personal project of the company and soon after I was hired for a period of 3 months as an intern.
-           I carried out projects in pair programming and developed technologies for the management of medium-sized companies, personal projects and studies related to projects of a social technological nature.
-           For 1 month I was in contact with foreign customers to develop products aimed at the foreign market.
-           Among the various technologies developed and studied in this work, there are <br>
+  summary: I started as a freelancer on a personal company project and was soon hired as an intern for a 3-month period.<br><br>
+           Working mostly in Pair Programming, I developed technologies for company management, personal projects, and community-focused studies.
+           Over the course of one month, I worked with international clients on products aimed at the foreign market.<br><br>
+           The main technologies I used in this role were:<br>
 
            <ul class="resume-item-list">
-           <li> Git </li>
-           <li> GitFlow </li>
-           <li> GitHub / GitHub Pages </li>
-           <li> GitLab / GitLab Pages </li>
            <li> PHP </li>
-           <li> HTML </li>
-           <li> CSS </li>
-           <li> JavaScript </li>
-           <ul>
-            <li> ReactJS </li>
-            <li> NodeJS </li>
-           </ul>
-           <li> Gatsby </li>
-           <li> GraphQL </li>
-           <li> Netlify </li>
-           <li> Ruby </li>
-           <ul>
-            <li> Rails </li>
-            <ul>
-              <li> Webpacker </li>
-              <li> Rubocop </li>
-              <li> Administrate </li>
-            </ul>
-            <li> Rspec </li>
-           </ul>
-           <li> BootStrap </li>
-           <li> Postgresql </li>
-           <li> Heroku </li>
-           <li> Travis CI </li>
+           <li> Ruby &amp; Ruby On Rails (using PostgreSQL as database) </li>
+           <li> HTML &amp; CSS (Bootstrap) </li>
+           <li> JavaScript (ReactJS &amp; NodeJS) </li>
+           <li> GatsbyJS &amp; GraphQL </li>
+           <li> CI/CD (Travis CI) </li>
+           <li> Heroku &amp; Netlify </li>
            <li> Docker </li>
-           <li> MAMP </li>
-           <li> Mac OS </li>
-           <br>
-  
-- company: Casseb & Saúde Casseb 
+           </ul>
+
+- company: Casseb &amp; Saúde Casseb
   position: Intern
   duration:   Jul, 2018  &mdash; Jul, 2019
-  summary: During the period that I was at this company, I perfomed differents activies focused on user support and maintenance of hardware and software.           
-           In addition to all technical learniing, the company works with approximately 150 employees in the most diverse sectors, wich allowed me to learn more about teamwork and coexistence in society.
-           Among the main technologies developed and studied at work, there are <br>
+  summary: During my time at this company, I performed various activities related to user support and hardware/software maintenance.
+           Beyond the technical learning, the company employs approximately 150 people across diverse departments, which allowed me to learn more about teamwork and professional coexistence.<br><br>
+           Independently, I developed a CRUD system to manage IP protocol data, passwords, tutorials, emails, phone numbers, machine specs, and more.
+           The system was developed exclusively for the company's IT department and is still in use today.<br><br>
+           The main technologies used in this project were:<br>
 
            <ul class="resume-item-list">
            <li> PHP </li>
-           <li> HTML </li>
-           <li> CSS </li>
-           <li> JavaScript </li>
-           <li> Banco de Dados Oracle </li>
-           <li> MySQL </li>
-           <li> WAMP Server </li>
-           <li> TomCat </li>
-           <li> Windows Shell </li>
-           <li> Windows Server </li>
+           <li> HTML &amp; CSS &amp; JavaScript </li>
+           <li> Database - Oracle &amp; MySQL </li>
+           <li> WAMP &amp; TomCat </li>
+           <li> Windows Shell &amp; Windows Server </li>
+           </ul>
