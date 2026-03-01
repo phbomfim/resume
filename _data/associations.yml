@@ -3,27 +3,35 @@
 
 - organization: Rails Girls Salvador
   role: Mentor
-  year: 2019 &mdash; Present
+  year: 2019 &mdash; 2020
   url: http://railsgirls.com/salvador.html
-  summary: Since 2019 I participate in the event Rails Girls in Salvador.
-           The purpose of Rails Girls is to give tools and build a community for womem to understand technology and to build their ideas.
-           We do this by providing a great experience on building things and by making technology more approachable.
-           Learn sketching, prototyping, basic programming and get introduced to the world of technology.
-           Rails Girls was born in Finland, but is nowadays a global, non-profit volunteer community.
-           
+  summary: I actively participated in organizing the event in Salvador.
+           The Rails Girls initiative aims to give girls the opportunity to get in touch with programming, even without any prior knowledge in the area.
+           We believe that by growing initiatives focused on women in programming, we can build a more equal landscape.
+           Rails Girls started in Finland and has now grown to a global scale.
+
 - organization: Onda Digital
   role: Instructor
-  year: 2019 &mdash; Present
+  year: 2019 &mdash; 2020
   url: http://ime.ufba.br/index.php/onda-digital/
-  summary: Since 2019, with the support of Onda Digital, I have organized CIPROG level 2 (Computer programming initiation course).
-           The objective of the course is to improve knowledge in programming with a focus on development of computational reasoning.
-           In this course we solve problems of logic and mathematics using computational reasoning.
+  summary: In 2019, with the support of Onda Digital, I taught CIPROG level 2 (Advanced Computer Programming Introduction Course).
+           The course aims to improve programming knowledge with a focus on developing computational reasoning in a problem-based and contextualized way,
+           encouraging logical-mathematical development and problem-solving skills.
+           The course was taught in partnership with the Federal University of Bahia (UFBA) and held at the Institute of Mathematics and Statistics (IME).<br>
 
 - organization: InfoJr UFBA
   role: Trainee
-  year: 2016
+  year: 2016.2
   url: http://infojr.com.br/
-  summary: In the semester 2016.2 I was selected for the InfoJr's (Junior Computer Company at UFBA) trainee program.
-           During the period what I was in the company, I carried out activies related to team programming.
-           It was at this company that I had my first contact with software development technologies, such as databases (MySQL),
-           HTML and CSS, Git and Github, and the programming languages like PHP and JavaScript.
+  summary: During the 2016.2 semester I was selected for the trainee program at InfoJr UFBA, the Junior Computer Company of UFBA.
+           During my time at the company, I performed various activities related to team programming.<br><br>
+           At this micro-enterprise I had my first contact with software development technologies, such as:<br>
+           <ul class="resume-item-list">
+           <li> Database (MySQL) </li>
+           <li> HTML </li>
+           <li> CSS </li>
+           <li> Git </li>
+           <li> GitHub </li>
+           <li> PHP </li>
+           <li> JavaScript </li>
+           </ul>
