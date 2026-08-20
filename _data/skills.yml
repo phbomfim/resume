@@ -1,12 +1,22 @@
-# Skills
-# Organizational leadership
-- skill: Organizational leadership
-  description: I have several years of experience leading organziations from community groups to business departments. From public speaking, to mentoring, to coordination of people and events, I can lead in any context.
+# Core skills
 
-# Communications strategy
-- skill: Communications strategy
-  description: Content and marketing strategy,
+- skill: Languages
+  description: Clojure, Ruby, SQL. Familiar with Java and JavaScript.
 
-# Digital content development and creation
-- skill: Digital content development and creation
-  description: Copy writing, graphic design, web design, front-end web development, print design
+- skill: Backend &amp; distributed
+  description: Microservices, event-driven &amp; async architectures, high-traffic APIs, Kafka.
+
+- skill: Performance &amp; reliability
+  description: JVM &amp; CPU/memory profiling, p99 latency analysis, incident review, alert hygiene.
+
+- skill: Cloud &amp; data
+  description: AWS, Kubernetes, Datomic, DynamoDB, Databricks/ETL, Prometheus &amp; Grafana.
+
+- skill: AI &amp; productivity
+  description: AI-assisted design &amp; coding, LLM context engineering, Spec-Driven Development, AI-augmented decision records.
+
+- skill: Ways of working
+  description: System design, technical RFCs, cross-team &amp; cross-geo alignment, mentoring.
+
+- skill: Spoken languages
+  description: Portuguese (native), English (advanced).
