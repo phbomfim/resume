@@ -1,98 +1,34 @@
 - company: Nubank
   position: Senior Software Engineer
   duration:   Aug, 2022  &mdash; Present
-  summary: Working across different global credit card segments, I develop scalable, robust, canonical solutions with a focus on high availability.
-           In this role, I am constantly involved in software architecture discussions, technical decision documentation, stakeholder alignment, and product definitions with people from around the world.<br><br>
-           On a daily basis, I perform mentoring and technical leadership; code quality control and monitoring of different systems; application performance control; participation in software engineer recruitment; participation in technology events and communities; and various other software engineering activities.<br><br>
-           The main technologies I use in this role are:<br>
-
+  summary: >
            <ul class="resume-item-list">
-            <li> Clojure </li>
-            <li> AWS (Cloud Solutions) </li>
-            <li> Kubernetes </li>
-            <li> Datomic &amp; DynamoDB </li>
-            <li> Databricks &amp; ETL </li>
-            <li> Prometheus &amp; Grafana </li>
-          </ul>
+            <li> <strong>Led the architecture revamp of an automatic credit-card bill-payment product</strong> to make it globally canonical and scalable, unblocking the company's launch in a new country; drove critical engineering decisions and alignment across multiple stakeholder teams and seniority levels. Stepped up as technical lead during a team transition, sustaining the product in production and onboarding the incoming lead while keeping the architecture roadmap on track. </li>
+            <li> <strong>Cut p99 load latency of credit-card homepage widgets by 78%</strong> alongside two senior engineers, resolving a chronic performance issue through low-level investigation of threads, JVM behavior, and CPU usage. </li>
+            <li> Re-architected experimentation/homepage provider infrastructure, <strong>cutting Kafka cost ~20%, redundant message volume ~31%, and CPU usage up to ~59%</strong> via targeted refactors validated with production experiment data. </li>
+            <li> Established incident-review ceremonies and alerting standards that <strong>reduced noisy alerts by ~92%</strong> over one year, sharply improving signal-to-noise and on-call focus. </li>
+            <li> <strong>First engineer on the team to adopt AI intentionally</strong>: built a Claude Code context repository (domain docs, ADRs, custom agents &amp; skills) applying Spec-Driven Development and context-engineering practices, then led a team enablement session on Claude Code, SDD, and AI-assisted testing that moved the team from ad-hoc to systematic AI use. </li>
+            <li> Contributed to a multi-month inner-source collaboration with an internal platform-library team; mentor engineers, support hiring, and represent the team in technical forums. </li>
+           </ul>
+
+           Main technologies: Clojure, AWS, Kubernetes, Datomic &amp; DynamoDB, Kafka, Databricks &amp; ETL, Prometheus &amp; Grafana.
 
 - company: NaveRS
   position: Full Stack Developer
   duration:   Jun, 2021  &mdash; Jul, 2022
-  summary: Developed various solutions using SCRUM methodology with Ruby on Rails as the main technology.
-           The main project was developed for Banks and Financial Institutions, using microservices architecture and APIs.
-           I also performed technical leadership, participated in recruitment, and led initiatives related to racial equality topics.<br><br>
-           The main technologies I used in this role were:<br>
-
+  summary: >
            <ul class="resume-item-list">
-            <li> Ruby On Rails </li>
-            <li> Apache Kafka </li>
-            <li> Sidekiq </li>
-            <li> Rspec </li>
-            <li> MongoDB </li>
-            <li> Slim &amp; Bootstrap </li>
-            <li> Heroku </li>
-          </ul>
-
-- company: BRASERV Petróleo Ltda.
-  position: Full Stack Developer
-  duration:   Jan, 2021  &mdash; Apr, 2021
-  summary: Developed solutions (applications and websites) for bid and contract data management.
-           Provided technical support, assisted in data migration, and created new reports.<br><br>
-           The main technologies I used in this role were:<br>
-
-           <ul class="resume-item-list">
-            <li> PHP (using MySQL as database) </li>
-            <li> Google Cloud &amp; SDK Drive API </li>
-            <li> Java </li>
-            <li> CSS (using Bootstrap) </li>
-          </ul>
-
-- company: phbomfim.dev
-  position: Freelancer
-  duration:   Dec, 2019  &mdash; Apr, 2021
-  summary: After formally leaving OmniCode Solutions, I provided various services as a freelancer.<br>
-           The main activities included bug fixes, consulting, and web application development.<br><br>
-           Available to work with the main technologies I mastered at the time:<br>
-
-           <ul class="resume-item-list">
-            <li> GatsbyJS </li>
-            <li> Ruby On Rails </li>
-            <li> PHP </li>
-            <li> WordPress </li>
+            <li> Built and maintained microservices and APIs for banks and financial institutions using Ruby on Rails, Kafka, and Sidekiq, focused on reliability and scalability in production. </li>
+            <li> Acted as a technical reference, contributed to system design and hiring, and led initiatives on racial equity within the engineering organization. </li>
            </ul>
 
-- company: OmniCode Solutions
-  position: Intern
-  duration:   Aug, 2019  &mdash; Oct, 2019
-  summary: I started as a freelancer on a personal company project and was soon hired as an intern for a 3-month period.<br><br>
-           Working mostly in Pair Programming, I developed technologies for company management, personal projects, and community-focused studies.
-           Over the course of one month, I worked with international clients on products aimed at the foreign market.<br><br>
-           The main technologies I used in this role were:<br>
+           Main technologies: Ruby on Rails, Apache Kafka, Sidekiq, RSpec, MongoDB, Slim &amp; Bootstrap, Heroku.
 
+- company: Earlier experience
+  position: Full Stack Developer / Freelancer / Intern
+  duration:   2018  &mdash; 2021
+  summary: >
            <ul class="resume-item-list">
-           <li> PHP </li>
-           <li> Ruby &amp; Ruby On Rails (using PostgreSQL as database) </li>
-           <li> HTML &amp; CSS (Bootstrap) </li>
-           <li> JavaScript (ReactJS &amp; NodeJS) </li>
-           <li> GatsbyJS &amp; GraphQL </li>
-           <li> CI/CD (Travis CI) </li>
-           <li> Heroku &amp; Netlify </li>
-           <li> Docker </li>
-           </ul>
-
-- company: Casseb &amp; Saúde Casseb
-  position: Intern
-  duration:   Jul, 2018  &mdash; Jul, 2019
-  summary: During my time at this company, I performed various activities related to user support and hardware/software maintenance.
-           Beyond the technical learning, the company employs approximately 150 people across diverse departments, which allowed me to learn more about teamwork and professional coexistence.<br><br>
-           Independently, I developed a CRUD system to manage IP protocol data, passwords, tutorials, emails, phone numbers, machine specs, and more.
-           The system was developed exclusively for the company's IT department and is still in use today.<br><br>
-           The main technologies used in this project were:<br>
-
-           <ul class="resume-item-list">
-           <li> PHP </li>
-           <li> HTML &amp; CSS &amp; JavaScript </li>
-           <li> Database - Oracle &amp; MySQL </li>
-           <li> WAMP &amp; TomCat </li>
-           <li> Windows Shell &amp; Windows Server </li>
+            <li> Delivered web applications and integrations for contract/bid management and internal systems (BRASERV Petróleo) using PHP, Java, MySQL, and Google Cloud APIs. </li>
+            <li> Ran freelance and internship work (phbomfim.dev / OmniCode Solutions) for local and international clients across Ruby on Rails, JavaScript (React, Node), Gatsby, PostgreSQL, and CI/CD &mdash; including internal tooling still in production use. </li>
            </ul>
